@@ -7,11 +7,19 @@
 
 <p style="margin-top: -8px;"></p>
 
+---
+
 - 👋 Hi, I’m @travis-is-wright
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
+
+---
+
+**Ե ω** 👉 **https://o7q.github.io/travis-is-wright**
+
+---
 
 <img src="https://github.com/travis-is-wright/travis-is-wright/blob/main/chochocat.gif" width='250' height='250'>
 
