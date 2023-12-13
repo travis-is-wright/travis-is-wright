@@ -1,3 +1,12 @@
+### <img src="assets/images/icon.png" style="margin-bottom: -0.15rem; margin-right: 1px;"> **travis wright**
+
+<p style="margin-top: -5px;"></p>
+
+![Profile Views](https://komarev.com/ghpvc/?username=o7q&style=flat&color=blueviolet&label=Profile+Views)
+![Total Stars](https://img.shields.io/github/stars/o7q?logo=github&label=Total%20Stars&color=%23FAEE46)
+
+<p style="margin-top: -8px;"></p>
+
 - 👋 Hi, I’m @travis-is-wright
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
