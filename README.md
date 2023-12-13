@@ -1,4 +1,4 @@
-### <img src="tw logo email image.png" style="margin-bottom: -0.15rem; margin-right: 1px;"> **travis wright**
+### <img src="tw logo email image.png" width='20' height='20' style="margin-bottom: -0.15rem; margin-right: 1px;"> **travis wright**
 
 <p style="margin-top: -5px;"></p>
 
