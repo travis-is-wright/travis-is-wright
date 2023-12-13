@@ -8,6 +8,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=travis-is-wright)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=travis-is-wright&show_icons=true)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=travis-is-wright&show_icons=true,color=30,e96443,904e95&title_color=fff&text_color=fff)  
 
 
