@@ -6,7 +6,7 @@
 
 <img src="https://github.com/travis-is-wright/travis-is-wright/blob/main/chochocat.gif" width='250' height='250'>
 
- ![99's Github Stats](https://github-readme-stats.vercel.app/api?username=travis-is-wright_color=30,e96443,904e95&title_color=fff&text_color=fff)
+ ![99's Github Stats](https://github-readme-stats.vercel.app/api?username=travis-is-wright&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=travis-is-wright&show_icons=true)  
 
