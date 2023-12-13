@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fstickers%2Fsanrioinc-sanrio-sanrio60-chococat-omTsJYXlUrPgjAhUd5&psig=AOvVaw3gYxpzdQFRTr_4kbblT-7s&ust=1702591815622000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCKil5fW2jYMDFQAAAAAdAAAAABBU">
+<img src="https://github.com/travis-is-wright/travis-is-wright/blob/main/chochocat.gif">
 <!---
 travis-is-wright/travis-is-wright is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
