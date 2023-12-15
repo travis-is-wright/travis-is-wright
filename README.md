@@ -19,9 +19,6 @@ document my professional journey in this vast ever-growing industry.
 
 ---
 
-<img src="https://github.com/travis-is-wright/travis-is-wright/blob/main/chochocat.gif" width='250' height='250'>
-
-
 <img src="https://github.com/travis-is-wright/travis-is-wright/blob/main/chochocat.gif" style="width: 40%">
 
 [![**GitHub Stats**](https://readme-stats.clckblog.space/api?username=travis-is-wright&theme=omni&icons=true&count_private=true)](https://skyline.github.com/travis-is-wright/2023)  |  [![**Top Languages**](https://readme-stats.clckblog.space/api/top-langs/?username=travis-is-wright&theme=omni&layout=compact&langs_count=8)](https://github.com/travis-is-wright?tab=repositories)
