@@ -25,10 +25,10 @@ document my professional journey in this vast ever-growing industry.
 
 ---
 
-[![**Discord Presence**](https://lanyard.cnrad.dev/api/307269599680790528?bg=170F0C)](https://discord.gg/n8jSSSB) | <img src="[assets/images/pompompurin.gif" style="width: 40%](https://github.com/travis-is-wright/travis-is-wright/blob/main/chochocat.gif)">
+| <img src="[assets/images/pompompurin.gif" style="width: 40%](https://github.com/travis-is-wright/travis-is-wright/blob/main/chochocat.gif)">
 |-|-|
 
-[![**GitHub Stats**](https://readme-stats.clckblog.space/api?username=travis-is-wright&theme=date_omni_icons=true&count_private=true)](https://skyline.github.com/travis-is-wright/2023) | [![**Top Languages**](https://readme-stats.clckblog.space/api/top-langs/?username=travis-is-wright&theme=omni&layout=compact&langs_count=10)](https://github.com/travis-is-wright?tab=repositories)
+[![**GitHub Stats**](https://readme-stats.clckblog.space/api?username=travis-is-wright&theme=omni icons=true&count_private=true)](https://skyline.github.com/travis-is-wright/2023) | [![**Top Languages**](https://readme-stats.clckblog.space/api/top-langs/?username=travis-is-wright&theme=omni&layout=compact&langs_count=10)](https://github.com/travis-is-wright?tab=repositories)
 |-|-|
 
 ---
