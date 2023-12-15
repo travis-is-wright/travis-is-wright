@@ -17,7 +17,7 @@
 
 ---
 
-**Ե ω** 👉 **https://o7q.github.io/travis-is-wright**
+**Ե ω** 👉 **https://github.com/travis-is-wright**
 
 ---
 
