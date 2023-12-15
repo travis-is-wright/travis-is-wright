@@ -28,10 +28,7 @@ document my professional journey in this vast ever-growing industry.
 | <img src="[assets/images/pompompurin.gif" style="width: 40%](https://github.com/travis-is-wright/travis-is-wright/blob/main/chochocat.gif)">
 |-|-|
 
-[![**GitHub Stats**](https://readme-stats.clckblog.space/api?username=travis-is-wright&theme=omni&icons=true&count_private=true)](https://skyline.github.com/travis-is-wright/2023) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=travis-is-wright&layout=compact&theme=omni)
+[![**GitHub Stats**](https://readme-stats.clckblog.space/api?username=travis-is-wright&theme=omni&icons=true&count_private=true)](https://skyline.github.com/travis-is-wright/2023) | [![**Top Languages**](https://readme-stats.clckblog.space/api/top-langs/?username=travis-is-wright&theme=omni&layout=compact&langs_count=6)](https://github.com/travis-is-wright?tab=repositories)
 |-|-|
 
 ---
-[![**Top Languages**](https://readme-stats.clckblog.space/api/top-langs/?username=travis-is-wright&theme=omni&layout=compact&langs_count=6)](https://github.com/travis-is-wright?tab=repositories)
-
-
