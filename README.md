@@ -33,3 +33,5 @@ document my professional journey in this vast ever-growing industry.
 
 ---
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=travis-is-wright&layout=compact&theme=omni)
+
