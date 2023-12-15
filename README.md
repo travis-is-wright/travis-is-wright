@@ -1,4 +1,4 @@
-### <img src="tw logo email image.png" width='20' height='20' style="margin-bottom: -0.15rem; margin-right: 1px;"> **travis wright**
+### <img src="tw logo email image.png" width='50' height='30' style="margin-bottom: -0.15rem; margin-right: 1px;"> **travis wright**
 
 <p style="margin-top: -5px;"></p>
 
@@ -9,22 +9,28 @@
 
 ---
 
-- 👋 Hi, I’m @travis-is-wright
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+###
+
+Hello! My name is Travis Wright, I am an eager Computer Science student and devoted audio enthusiast currently attending Michigan State University. I am passionately working on various independent projects relating to the music world and using GitHub to document my professional journey in this vast ever-growing industry. 
+
+###
+
 
 ---
 
-**Ե ω** 👉 **https://github.com/travis-is-wright**
+**Ե ω** 👉 **https://www.traviswrightmusic.com**
 
 ---
 
 <img src="https://github.com/travis-is-wright/travis-is-wright/blob/main/chochocat.gif" width='250' height='250'>
 
+#
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=travis-is-wright)](https://github.com/anuraghazra/github-readme-stats)
+
+#
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=travis-is-wright&show_icons=true)  
 
+#
 
