@@ -11,7 +11,10 @@
 
 Hello! My name is Travis Wright, I am an eager Computer Science student and devoted audio enthusiast currently attending Michigan State University. I am passionately working on various independent projects relating to the music world using primarily C++ and Python to digitally craft designs, tools, and fun programs pushing my limits both creatively, and innovatively. GitHub is used to document my professional journey in this vast ever-growing industry, for contact: email- linkedin- 
 
----
+**e-mail** 📧 **traviswright131@gmail.com
+
+**linked-in** <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /> ** **/in/travisdwright/**
+
 
 **Ե ω** 👉 **https://www.traviswrightmusic.com**
 
