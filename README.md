@@ -13,14 +13,14 @@ Hello! My name is Travis Wright, I am an eager Computer Science student and devo
 
 **e-mail** 📧 **traviswright131@gmail.com
 
-**linked-in** <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" style="width: 50%"> ** **/in/travisdwright/**
+**linked-in** <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" style="width: 90%" style="height = 90%"> ** **/in/travisdwright/**
 
 
 **Ե ω** 👉 **https://www.traviswrightmusic.com**
 
 ---
 
-<img src="https://github.com/travis-is-wright/travis-is-wright/blob/main/chochocat.gif" style="width: 40%">
+<img src="https://github.com/travis-is-wright/travis-is-wright/blob/main/chochocat.gif" style="width: 90%">
 
 [![**GitHub Stats**](https://readme-stats.clckblog.space/api?username=travis-is-wright&theme=omni&icons=true&count_private=true)](https://skyline.github.com/travis-is-wright/2023)  |  [![**Top Languages**](https://readme-stats.clckblog.space/api/top-langs/?username=travis-is-wright&theme=omni&layout=compact&langs_count=8)](https://github.com/travis-is-wright?tab=repositories)
 
