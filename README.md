@@ -13,7 +13,7 @@ Hello! My name is Travis Wright, I am an eager Computer Science student and devo
 
 **e-mail** 📧 **traviswright131@gmail.com
 
-**linked-in** <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /> ** **/in/travisdwright/**
+**linked-in** <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" style="width: 10%, height=10%"> ** **/in/travisdwright/**
 
 
 **Ե ω** 👉 **https://www.traviswrightmusic.com**
