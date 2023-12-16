@@ -20,7 +20,7 @@ Hello! My name is Travis Wright, I am an eager Computer Science student and devo
 
 ---
 
-<img src="https://github.com/travis-is-wright/travis-is-wright/blob/main/chochocat.gif" style="width: 90%">
+<img src="https://github.com/travis-is-wright/travis-is-wright/blob/main/chochocat.gif" width="10" height="10">
 
 [![**GitHub Stats**](https://readme-stats.clckblog.space/api?username=travis-is-wright&theme=omni&icons=true&count_private=true)](https://skyline.github.com/travis-is-wright/2023)  |  [![**Top Languages**](https://readme-stats.clckblog.space/api/top-langs/?username=travis-is-wright&theme=omni&layout=compact&langs_count=8)](https://github.com/travis-is-wright?tab=repositories)
 
