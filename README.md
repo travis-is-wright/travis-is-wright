@@ -17,7 +17,7 @@ GitHub is used to document my professional journey in this ever-growing industry
 
 ---
 
-<u>for contact:</u> 
+_for contact:_
 
 - 📧 **traviswright131@gmail.com**
 
