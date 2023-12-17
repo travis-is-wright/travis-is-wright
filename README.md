@@ -23,7 +23,7 @@ _for contact:_
 
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="16px" height="16px"> [**/in/travisdwright/**](https://www.linkedin.com/in/travisdwright/)
 
-**Ե ω** 👉 **https://www.traviswrightmusic.com**
+- **Ե ω** 👉 **https://www.traviswrightmusic.com**
 
 ---
 <img src="https://github.com/travis-is-wright/travis-is-wright/blob/main/computer-8bit-large11.webp" style="width: 60%"> | <img src="https://github.com/travis-is-wright/travis-is-wright/blob/main/tw%20logo%20email%20image.png" style="width: 40%"> | <img src="https://github.com/travis-is-wright/travis-is-wright/blob/main/chochocat.gif" style="width: 40%"> 
