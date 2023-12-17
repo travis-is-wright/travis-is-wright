@@ -23,7 +23,7 @@ _for contact:_
 
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="16px"> [**/in/travisdwright/**](https://www.linkedin.com/in/travisdwright/)
 
-- **Ե ω** 👉 **https://www.traviswrightmusic.com**
+- **Ե ω** 👉 [**www.traviswrightmusic.com**](https://www.traviswrightmusic.com)
 
 ---
 
