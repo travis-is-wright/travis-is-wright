@@ -15,12 +15,9 @@ Hello! My name is Travis Wright, I am an eager Computer Science student and devo
 
 GitHub is used to document my professional journey in this vast ever-growing industry, for contact: 
 
-#
-
 **e-mail** 📧 **traviswright131@gmail.com**
 
 **linked-in** <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="16px" height="16px"> [**/in/travisdwright/**](https://www.linkedin.com/in/travisdwright/)
-
 
 **Ե ω** 👉 **https://www.traviswrightmusic.com**
 
