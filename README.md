@@ -8,9 +8,8 @@
 <p style="margin-top: -8px;"></p>
 
 ---
-/*
 Hello! My name is Travis Wright, I am an eager Computer Science student and devoted audio enthusiast currently attending Michigan State University. I am passionately working on various independent projects relating to the music world using primarily C++ and Python to digitally craft tools, designs, and fun programs pushing my limits both creatively, and innovatively. 
-*/
+
 ---
 
 GitHub is used to document my professional journey in this ever-growing industry, for contact: 
