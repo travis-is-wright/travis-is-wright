@@ -1,11 +1,11 @@
 ### ^.^ **travis wright**
 
-
+<p style="margin-top: -5px;"></p>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=travis-is-wright&style=flat&color=blueviolet&label=Profile+Views)
 ![Total Stars](https://img.shields.io/github/stars/travis-is-wright?logo=github&label=Total%20Stars&color=%23FAEE46)
 
-
+<p style="margin-top: -8px;"></p>
 
 ---
 
@@ -26,6 +26,7 @@ _for contact:_
 - **Ե ω** 👉 **https://www.traviswrightmusic.com**
 
 ---
+
 <img src="https://github.com/travis-is-wright/travis-is-wright/blob/main/computer-8bit-large11.webp" style="width: 60%"> | <img src="https://github.com/travis-is-wright/travis-is-wright/blob/main/tw%20logo%20email%20image.png" style="width: 40%"> | <img src="https://github.com/travis-is-wright/travis-is-wright/blob/main/chochocat.gif" style="width: 40%"> 
 |-|-|-|
 
