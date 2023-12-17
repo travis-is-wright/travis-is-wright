@@ -9,7 +9,7 @@
 
 ---
 
-Hello! My name is Travis Wright, I am an eager Computer Science student and devoted audio enthusiast currently attending Michigan State University. I am passionately working on various independent projects relating to the music world using primarily C++ and Python to digitally craft designs, tools, and fun programs pushing my limits both creatively, and innovatively. 
+Hello! My name is Travis Wright, I am an eager Computer Science student and devoted audio enthusiast currently attending Michigan State University. I am passionately working on various independent projects relating to the music world using primarily C++ and Python to digitally craft tools, designs, and fun programs pushing my limits both creatively, and innovatively. 
 
 ---
 
