@@ -13,7 +13,7 @@ Hello! My name is Travis Wright, I am an eager Computer Science student and devo
 
 ---
 
-GitHub is used to document my professional journey in this vast ever-growing industry, for contact: 
+GitHub is used to document my professional journey in this ever-growing industry, for contact: 
 
 - 📧 **traviswright131@gmail.com**
 
