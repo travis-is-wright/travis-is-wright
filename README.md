@@ -21,7 +21,7 @@ _for contact:_
 
 - 📧 **traviswright131@gmail.com**
 
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="16px">  [**/in/travisdwright/**](https://www.linkedin.com/in/travisdwright/)
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="16px" style="margin-right: 10px;"> [**/in/travisdwright/**](https://www.linkedin.com/in/travisdwright/)
 
 - **Ե ω** 👉 **https://www.traviswrightmusic.com**
 
