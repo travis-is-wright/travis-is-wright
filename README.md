@@ -21,7 +21,7 @@ GitHub is used to document my professional journey in this ever-growing industry
 **Ե ω** 👉 **https://www.traviswrightmusic.com**
 
 ---
-<img src="https://github.com/travis-is-wright/travis-is-wright/blob/main/tw%20logo%20email%20image.png" style="width: 40%"> | <img src="https://github.com/travis-is-wright/travis-is-wright/blob/main/chochocat.gif" style="width: 40%"> 
+<img src="https://github.com/travis-is-wright/travis-is-wright/blob/main/computer-8bit-large11.webp" style="width: 40%"> | <img src="https://github.com/travis-is-wright/travis-is-wright/blob/main/tw%20logo%20email%20image.png" style="width: 40%"> | <img src="https://github.com/travis-is-wright/travis-is-wright/blob/main/chochocat.gif" style="width: 40%"> 
 |-|-|
 
 [![**GitHub Stats**](https://readme-stats.clckblog.space/api?username=travis-is-wright&theme=omni&icons=true&count_private=true)](https://skyline.github.com/travis-is-wright/2023) | [![**Top Languages**](https://readme-stats.clckblog.space/api/top-langs/?username=travis-is-wright&theme=omni&layout=compact&langs_count=8)](https://github.com/travis-is-wright?tab=repositories)
