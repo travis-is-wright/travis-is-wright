@@ -13,7 +13,7 @@
 
 ---
 
-<p align="center"><img src="https://github.com/travis-is-wright/travis-is-wright/blob/main/starsdrawn.gif" style="width: 90%"> GitHub is used to document my professional journey in this ever-growing industry</p>
+<p align="center"><img src="https://github.com/travis-is-wright/travis-is-wright/blob/main/starsdrawn.gif" style="width: -90%"> GitHub is used to document my professional journey in this ever-growing industry</p>
 
 ---
 
