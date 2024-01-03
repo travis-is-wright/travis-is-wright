@@ -27,7 +27,7 @@ _for contact:_
 
 ---
 
-<img src="https://github.com/travis-is-wright/travis-is-wright/blob/main/tw animation.gif" style="width: 50%"> | <img src="https://github.com/travis-is-wright/travis-is-wright/blob/main/computer-8bit-large11.webp" style="width: 80%"> | <img src="https://github.com/travis-is-wright/travis-is-wright/blob/main/chochocat.gif" style="width: 70%"> 
+<img src="https://github.com/travis-is-wright/travis-is-wright/blob/main/tw animation.gif" style="width: 50%"> | <img src="https://github.com/travis-is-wright/travis-is-wright/blob/main/computer-8bit-large11.webp" style="width: 80%"> | <img src="https://github.com/travis-is-wright/travis-is-wright/blob/main/chochocat.gif" style="width: 60%"> 
 |-|-|-|
 
 [![**GitHub Stats**](https://readme-stats.clckblog.space/api?username=travis-is-wright&theme=omni&icons=true&count_private=true)](https://skyline.github.com/travis-is-wright/2023) | [![**Top Languages**](https://readme-stats.clckblog.space/api/top-langs/?username=travis-is-wright&theme=omni&layout=compact&langs_count=8)](https://github.com/travis-is-wright?tab=repositories)
