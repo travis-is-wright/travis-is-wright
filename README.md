@@ -9,7 +9,7 @@
 
 ---
 
-> <p align="center">👋🏻 My name is Travis Wright, I am an eager Computer Science student and devoted audio enthusiast currently attending Michigan State University. I am passionately working on various independent projects relating to the music world using primarily C++ and Python to digitally craft fun programs, tools, and designs pushing my limits both creatively, and innovatively. 😌</p>
+<p align="center">👋🏻 My name is Travis Wright, I am an eager Computer Science student and devoted audio enthusiast currently attending Michigan State University. I am passionately working on various independent projects relating to the music world using primarily C++ and Python to digitally craft fun programs, tools, and designs pushing my limits both creatively, and innovatively. 😌</p>
 
 ---
 
@@ -27,7 +27,7 @@ _for contact:_
 
 ---
 
-<img src="https://github.com/travis-is-wright/travis-is-wright/blob/main/tw logo animation.gif" style="width: 45%"> | <img src="https://github.com/travis-is-wright/travis-is-wright/blob/main/computer-8bit-large11.webp" style="width: 70%"> | <img src="https://github.com/travis-is-wright/travis-is-wright/blob/main/chochocat.gif" style="width: 50%"> 
+<img src="https://github.com/travis-is-wright/travis-is-wright/blob/main/tw animation.gif" style="width: 45%"> | <img src="https://github.com/travis-is-wright/travis-is-wright/blob/main/computer-8bit-large11.webp" style="width: 70%"> | <img src="https://github.com/travis-is-wright/travis-is-wright/blob/main/chochocat.gif" style="width: 50%"> 
 |-|-|-|
 
 [![**GitHub Stats**](https://readme-stats.clckblog.space/api?username=travis-is-wright&theme=omni&icons=true&count_private=true)](https://skyline.github.com/travis-is-wright/2023) | [![**Top Languages**](https://readme-stats.clckblog.space/api/top-langs/?username=travis-is-wright&theme=omni&layout=compact&langs_count=8)](https://github.com/travis-is-wright?tab=repositories)
