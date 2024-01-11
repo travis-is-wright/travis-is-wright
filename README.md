@@ -23,7 +23,7 @@ _for contact:_
 
 - 📧 **traviswright131@gmail.com**
 
-- **Ե ω** 👉 [**www.traviswrightmusic.com**](https://www.traviswrightmusic.com)
+- **Ե ω** 👉🏻 [**www.traviswrightmusic.com**](https://www.traviswrightmusic.com)
 
 ---
 
