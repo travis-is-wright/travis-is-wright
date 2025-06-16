@@ -23,8 +23,6 @@ _for contact:_
 
 - 📧 **traviswright131@gmail.com**
 
-- **Ե ω** 👉🏻 [**www.traviswrightmusic.com**](https://www.traviswrightmusic.com)
-
 ---
 
 <img src="https://github.com/travis-is-wright/travis-is-wright/blob/main/tw animation.gif" style="width: 50%"> | <img src="https://github.com/travis-is-wright/travis-is-wright/blob/main/chochocat.gif" style="width: 60%"> | <img src="https://github.com/travis-is-wright/travis-is-wright/blob/main/computer-8bit-large11.webp" style="width: 90%"> 
