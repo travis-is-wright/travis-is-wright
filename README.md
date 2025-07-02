@@ -1,4 +1,4 @@
-### ^.^ **travis wright**
+### **travis wright**
 
 <p style="margin-top: -5px;"></p>
 
