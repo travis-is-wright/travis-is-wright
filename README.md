@@ -13,7 +13,7 @@
 
 ---
 
-<p align="center">✨ GitHub is used to document my professional journey in this ever-growing industry ✨</p>
+<p align="center">👨🏽‍💻 GitHub is used to document my developer journey 👨🏽‍💻</p>
 
 ---
 
